@@ -8,8 +8,20 @@ In the final architecture AWS API Gateway and AWS Lambda functions is used as we
 
 ## Web app final result
 
-The final project will be executed in a simple html page which can be deployed anywhere. 
+The final project will be executed in a simple html page which can be deployed anywhere.
 
+![Web app example](./webapp.gif) 
+
+## Software and Libraries
+
+This project uses the following software and Python libraries:
+
+- Python
+- NumPy
+- pandas
+- PyTorch
+- Amazon SageMaker
+- NLTK
 
 
 
